@@ -34,6 +34,11 @@ h2 {
   height:100%;
 }
 
+.tags { 
+  color:#00abff;
+  text-decoration:none; 
+}
+
 p.date { 
   color:#ccc;
   font-family: georgia, serif;
