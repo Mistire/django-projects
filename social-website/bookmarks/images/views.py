@@ -101,7 +101,7 @@ def image_list(request):
   return render(
     request,
     'images/image/list.html',
-    {'section': images, 'images': images}
+    {'section': 'images', 'images': images}
   )
 
 @login_required
