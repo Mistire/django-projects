@@ -50,9 +50,11 @@ INSTALLED_APPS = [
     'images.apps.ImagesConfig',
     'easy_thumbnails',
     'actions.apps.ActionsConfig',
+    'debug_toolbar',
 ]
 
 MIDDLEWARE = [
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -171,3 +173,11 @@ SOCIAL_AUTH_PIPELINE = [
 ABSOLUTE_URL_OVERRIDES = {
   'auth.user': lambda u: reverse_lazy('user_detail', args=[u.username])
 }
+
+INTERNAL_IPS = [
+  '127.0.0.1',
+]
+
+REDIS_HOST = 'localhost'
+REDIS_PORT = 6379
+REDIS_DB = 0
