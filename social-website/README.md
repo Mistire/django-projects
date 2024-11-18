@@ -1,4 +1,4 @@
-# Social Website
+![Social_w_E](https://github.com/user-attachments/assets/4f7e443f-82f3-47bf-a14e-d17235d77f5d)# Social Website
 
 ## Overview
 This project is a social website built using Django, where users can register, create profiles, log in, and interact with content shared by other users. It includes functionalities like bookmarking images, creating user profiles, social authentication, and activity streams, all integrated with asynchronous JavaScript features for enhanced user interaction.
@@ -18,8 +18,11 @@ This project is a social website built using Django, where users can register, c
 **Profile page**
 ![Social_w_f](https://github.com/user-attachments/assets/9648366a-9cb2-4ea4-bfbe-4aa9a4f24eb0)
 
+**Edit Profile page**
+![Social_w_E](https://github.com/user-attachments/assets/0baca3fb-7815-4ad9-960f-2184df5f69f6)
 
-
+**Login Page**
+![Social_w_a](https://github.com/user-attachments/assets/b37bf444-91d0-4bc1-99d5-3e466263c68b)
 
 
 ## Features
