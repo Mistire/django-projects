@@ -4,7 +4,7 @@
 This project is a social website built using Django, where users can register, create profiles, log in, and interact with content shared by other users. It includes functionalities like bookmarking images, creating user profiles, social authentication, and activity streams, all integrated with asynchronous JavaScript features for enhanced user interaction.
 
 **Dashboard page**
-![social-w_D](https://github.com/user-attachments/assets/72a74805-90a3-45dc-ad8d-f865c559ad99)
+![social-w_D](https://github.com/user-attachments/assets/9f81e269-1500-4264-983f-5629b050eb7e)
 
 **Bookmarked images page**
 ![Social_w_B](https://github.com/user-attachments/assets/de76ea5b-17a3-4e1f-92e3-ab65260a732c)
