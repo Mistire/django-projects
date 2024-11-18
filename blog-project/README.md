@@ -1,8 +1,11 @@
 # Blog Website
 
 **Blog List page**
-[blog_list](https://github.com/Mistire/django-projects/blob/main/blog-project/screenshots/blog_w.png)
+![blog_w](https://github.com/user-attachments/assets/c64124b9-5808-4298-802d-171e7b871973)
+
 **Blog Detail page**
+![blog_w_d](https://github.com/user-attachments/assets/b952aff5-0b92-45ac-a119-7113e20ea479)
+ 
 
 A simple blog website built with **Django** that allows users to create, view, and interact with blog posts. It includes features like comments, email recommendations, tagging, and SEO-friendly URLs. The project also supports full-text search and a custom comment system.
 
