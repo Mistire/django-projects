@@ -130,4 +130,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 MEDIA_URL = 'media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
+#for session
 CART_SESSION_ID = 'cart'
+
+# for email
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
