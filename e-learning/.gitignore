@@ -1,0 +1,34 @@
+# Virtual environment
+.env/
+env/
+venv/
+my_env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Sensitive data
+.env
+*.pem  # SSL certificates
+
+# Django files
+db.sqlite3  # SQLite database (if used for local development)
+media/  # Media uploads
+
+# Logs
+*.log
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+*.egg
+*.egg-info/
