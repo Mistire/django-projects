@@ -1,0 +1,50 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Human Computer Interaction",
+    "slug": "human-computer-interaction"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Research method in Software Engineering",
+    "slug": "research-method-in-software-engineering"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Introduction to Machine Learning",
+    "slug": "introduction-to-machine-learning"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Software Project Management",
+    "slug": "software-project-management"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Software Quality Assurance and Testing",
+    "slug": "software-quality-assurance-and-testing"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Embedded System",
+    "slug": "embedded-system"
+  }
+}
+]
